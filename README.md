@@ -1,2 +1,2 @@
 # -brumetfwkdir
-Prrivate repo for HCL file
+Private repo for HCL file
